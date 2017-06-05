@@ -17,6 +17,6 @@
 ### Team Members:
 * Mohammad Hameed - 10149565 - mohammad.hameed@ucalgary.ca
 * Aneley Demeke - aneley.demeke@ucalgary.ca
-
+* Rhys Sosnowski - rhys.soz@gmail.com
 
 
